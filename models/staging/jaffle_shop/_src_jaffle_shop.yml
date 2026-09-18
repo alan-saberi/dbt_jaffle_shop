@@ -1,5 +1,7 @@
+version: 2
+
 sources:
-  - name: jaffle_shop
+  - name: jeffle_shop
     database: raw
     schema: jeffle_shop
     tables:
